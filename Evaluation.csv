@@ -1,0 +1,7 @@
+﻿,,,,,,,,,
+Architecture,Resolution,optimizer,scheduler,Aug,Pseudo labelling,IOU Score@0.5,Precision@0.5,Recall@0.5,F1 Score@0.5
+Dlinknet34,512,Adam,cosine anealing warm restart D4,D4,NA,0.435688,0.613951701,0.604681,0.6043
+Dlinknet34,1024,Adam,cosine anealing warm restart D4,D4,NA,0.4925,0.6251,0.698,0.6578
+DLinkNet50,1024,Adam,cosine anealing warm restart D5,D4,NA,0.513924296,0.71583034,0.644161513,0.676426929
+DLinkNet50,1024,Adam,cosine anealing warm restart D6,Advance aug,NA,0.497089349,6.08959E+15,7.3084E+15,0.66145465
+ EUNet-B4,1024,Adam,cosine anealing warm restart D7,Advance aug,A,0.5259,0.6728,0.7074,0.6866
