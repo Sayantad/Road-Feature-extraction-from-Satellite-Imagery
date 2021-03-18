@@ -12,12 +12,13 @@ For road feature extraction from satellite image following thing were explored
 
 
 ### Requirement
-[requirement.txt]
-[segmentation model pytorch api](https://github.com/qubvel/segmentation_models.pytorch).
-[albumentations](https://github.com/albumentations-team/albumentations).
-[Dlinknet](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge).
-[utilit library](https://github.com/BloodAxe/pytorch-toolbelt).
-[Training pipeline](https://github.com/catalyst-team/catalyst).
+-pytorch
+-requirement.txt
+-[segmentation model pytorch api](https://github.com/qubvel/segmentation_models.pytorch).
+-[albumentations](https://github.com/albumentations-team/albumentations).
+-[Dlinknet](https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge).
+-[utilit library](https://github.com/BloodAxe/pytorch-toolbelt).
+-[Training pipeline](https://github.com/catalyst-team/catalyst).
 
 
 ### Results
