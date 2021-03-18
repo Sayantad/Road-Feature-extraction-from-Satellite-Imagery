@@ -1,6 +1,6 @@
 # Road-Feature-extraction-from-Satellite-Imagery
 
 
-Resuls
+Results
 ![Alt text](Output.PNG?raw=true "Inference")
 
