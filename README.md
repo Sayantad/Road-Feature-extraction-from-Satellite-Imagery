@@ -27,6 +27,10 @@ For road feature extraction from satellite image following thing were explored
 ### Pseudo Labelling
 ![Alt text](PseudoLabelled.PNG?raw=true "Inference")
 
+# Evaluation 
+
+Evaluation.csv
+
 ### TO Do
 - TTA 
 - SWA
