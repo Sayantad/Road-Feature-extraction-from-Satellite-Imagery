@@ -11,4 +11,4 @@ Results
 ![Alt text](Output.PNG?raw=true "Inference")
 
 Pseudo Labelling
-
+![Alt text](PseudoLabelling.PNG?raw=true "Inference")
