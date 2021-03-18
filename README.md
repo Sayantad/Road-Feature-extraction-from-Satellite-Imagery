@@ -2,5 +2,5 @@
 
 
 Resuls
-![Alt text](output.png?raw=true "Inference")
+![Alt text](Output.PNG?raw=true "Inference")
 
