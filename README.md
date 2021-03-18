@@ -1,6 +1,6 @@
 # Road-Feature-extraction-from-Satellite-Imagery
 
-Requirement: 
+Requirement
 https://github.com/qubvel/segmentation_models.pytorch
 https://github.com/albumentations-team/albumentations
 https://github.com/zlkanata/DeepGlobe-Road-Extraction-Challenge
