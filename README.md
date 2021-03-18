@@ -1,7 +1,7 @@
 # Road-Feature-extraction-from-Satellite-Imagery
 
 For road feature extraction from satellite image following thing were explored
-  - The data analysis of the data. There were 301 missing label from the 1024 training images.So the training data was split into train/val and unlabelled data. 
+  - Data analysis. There were 301 missing label from the 1024 training images.So the training data was split into train/val and unlabelled data. 
   - Literature survey was done to evaluate the different models.DLinknet which was found to be a good model for road surface extraction. 
   - DLinknet and Efficinet Unetb4 is condisered for this experiment. 
   - While training D4 augmentation and than more augmentation technique were used. 
